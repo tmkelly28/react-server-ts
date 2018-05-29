@@ -10,8 +10,8 @@
     "morgan": "^1.8.2",
     "pg": "^6.4.0",
     "pg-hstore": "^2.3.2",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
     "react-redux": "^5.0.7",
     "sequelize": "^4.2.1"
   },
@@ -26,9 +26,9 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "css-loader": "^0.28.11",
-    "nodemon": "^1.11.0",
+    "nodemon": "^1.17.5",
     "style-loader": "^0.20.3",
-    "webpack": "^4.1.1",
-    "webpack-cli": "^2.0.12"
+    "webpack": "^4.10.1",
+    "webpack-cli": "^2.1.4"
   }
 }
